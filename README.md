@@ -1,6 +1,6 @@
 # Konnex
 
-                                                            Project Description
+                                                    Project Description
 
 Konnex is a full-stack web application, that provides users with the facilityto chat 
 with automated bots and also to chat with Live Support IT Product teams of Konnex.
@@ -11,7 +11,7 @@ be available 24x7.
 This application can be hosted on a Cloud Platform and can be made personalized.
 
 
-                                                         Instruction to use Konnex Application:-
+                                                  Instruction to use Konnex Application:-
 
 1. The zip file should be extracted, After that the System needs to have Java installed, any ide installed such as Eclipse.
 2. The project needs to be imported using any IDE and the system should have a Xampp and MySQL server installed.
