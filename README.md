@@ -18,3 +18,29 @@ This application can be hosted on a Cloud Platform and can be made personalized.
 3. Run the Spring Boot project along with the Xampp server.
 4. The application would be open automatically on your default browser.
 5. Finally you can use it.
+
+## Technologies Used : Java 8, Spring Boot, JPA, JSP, Spring security, HTML, CSS, Bootstrap, Hibernate, ORM, Google Dialogflow, Login Functionality with Robust Security
+
+
+# Screenshots-Konex
+
+1. Home Page - Konex Application 
+
+![alt text](https://github.com/Parvgour98/Konnex/blob/main/Screenshot%20(524).png)
+
+2. Registration Page - Konex Application with Robust Security
+
+![alt text](https://github.com/Parvgour98/Konnex/blob/main/Screenshot%20(525).png)
+
+3. IT Support - Login Page - Bug Reporting
+
+![alt text](https://github.com/Parvgour98/Konnex/blob/main/Screenshot%20(526).png)
+
+4. Live Chat with Customer Care - Deployed over Heroku
+
+![alt text](https://github.com/Parvgour98/Konnex/blob/main/Screenshot%20(529).png)
+
+5. Chatbot - Integrated with Dialogflow - With AI/ML Integration
+
+![alt text](https://github.com/Parvgour98/Konnex/blob/main/Screenshot%20(532).png)
+
