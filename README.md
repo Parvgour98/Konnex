@@ -26,7 +26,7 @@ This application can be hosted on a Cloud Platform and can be made personalized.
 
 1. Home Page - Konex Application 
 
-![alt text](https://github.com/Parvgour98/Konnex/blob/main/Screenshot%20(524).png)
+![alt text](https://github.com/Parvgour98/Konnex/blob/main/Screenshot%20(534).png)
 
 2. Registration Page - Konex Application with Robust Security
 
